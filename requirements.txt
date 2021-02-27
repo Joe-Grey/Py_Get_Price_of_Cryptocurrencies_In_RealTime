@@ -2,3 +2,8 @@ ipykernel
 requests
 beautifulsoup4
 lxml
+selenium
+yfinance
+pandas
+numpy
+pandas_datareader
